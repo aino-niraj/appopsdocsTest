@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Services dashboard placeholder">
+  <rect width="1200" height="720" fill="#f7f8fb"/>
+  <rect x="32" y="32" width="220" height="656" rx="16" fill="#ffffff" stroke="#d8dee8"/>
+  <rect x="284" y="32" width="884" height="96" rx="16" fill="#ffffff" stroke="#d8dee8"/>
+  <rect x="284" y="160" width="260" height="168" rx="14" fill="#ffffff" stroke="#d8dee8"/>
+  <rect x="572" y="160" width="260" height="168" rx="14" fill="#ffffff" stroke="#d8dee8"/>
+  <rect x="860" y="160" width="260" height="168" rx="14" fill="#ffffff" stroke="#d8dee8"/>
+  <text x="600" y="386" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#222936">Services Dashboard Screenshot</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#667085">Replace this placeholder with the real AppOps screenshot</text>
+</svg>
